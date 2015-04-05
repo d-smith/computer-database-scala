@@ -1,0 +1,7 @@
+New log file opened at Sun Apr 05 06:55:37 MDT 2015 by 11303@MACLB015803
+Taking next connection to: 53626
+New client attempting to connect on port: 53627-53626
+  Address = /127.0.0.1:53626
+This client on port 53627 has uuid a67d77f8-9022-4caa-b4ba-07fe1587182a configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-a67d77f8-9022-4caa-b4ba-07fe1587182a
+Taking next connection to: 53626
